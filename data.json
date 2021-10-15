@@ -1,0 +1,17 @@
+[
+    {
+        "city": "Brno",
+        "country": "Czech republic",
+        "id": 1
+    },
+    {
+        "city": "Prague",
+        "country": "Czech republic",
+        "id": 2
+    },
+    {
+        "city": "Vienna",
+        "country": "Austria",
+        "id": 3
+    }
+]
